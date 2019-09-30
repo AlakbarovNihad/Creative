@@ -78,16 +78,34 @@ font-family: 'Merriweather', serif;
 }
 .getstarted{
     text-align: center;
-    background-color: #f4623f;
-    border: 10px solid #f4623f;
-    border-radius: 20px;
+    background-color: white;
+    border:26px solid white;
+    border-radius: 50px;
+    width: 100px;
+    margin:20px 600px;
+    
+
  
 }
 .getstarted a:hover{
-    background-color:yellowgreen
+    background-color:yellowgreen;
+    
     
 }
 .getstarted a{
-    color: white
+    color: black
 }
-   
+.class3{
+    background-color: #f4623f;
+    padding-bottom: 100px
+}
+.contact{
+    text-align: center;
+    width: 53%;
+    float:left;
+}
+
+
+    
+
+}
